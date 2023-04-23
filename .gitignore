@@ -1,0 +1,13 @@
+# Ignore everything
+/*
+
+# Except
+!/[Aa]ssets/
+/[Aa]ssets/*
+!/[Aa]ssets/Scenes/
+!/[Aa]ssets/Scripts/
+!/[Pp]ackages/
+!/[Pp]rogect[Ss]ettings/
+
+!.gitignore
+!README.md
