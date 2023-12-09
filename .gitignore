@@ -7,7 +7,8 @@
 !/[Aa]ssets/Scenes/
 !/[Aa]ssets/Scripts/
 !/[Pp]ackages/
-!/[Pp]rogect[Ss]ettings/
+!/[Pp]roject[Ss]ettings/
+/[Pp]roject[Ss]ettings/[Pp]ackages/
 
 !.gitignore
 !README.md
